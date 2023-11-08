@@ -1,0 +1,2 @@
+# yanhongxuejiao.github.io
+The landscape of sex differences has not been well characterized in Colorectal Cancer (CRC), in particular with respect to oncogenes such as KRAS. However, our recent study showed that tumors male patients with KRAS mutations have decreased iron-dependent cell death called ferroptosis. Building on these findings, we examined the ferroptosis landscape in CRC patients, considering both sex and KRAS mutations, using public databases and our in-house CRC tumor cohort.
