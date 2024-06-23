@@ -2,27 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/event/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/journal_referee/bioinformatics/</loc>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/journal_referee/cancer-research/</loc>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/projects/</loc>
-    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/journal_referee/communications_biology/</loc>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/post/get-started/</loc>
+    <loc>http://localhost:4321/journal_referee/genomics_proteomics_bioinformatics/</loc>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/journal_referee/international-journal-of-medical-sciences/</loc>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/journal_referee/</loc>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/journal_referee/nature_communications/</loc>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/journal_referee/plos-one/</loc>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/journal_referee/redox-biology/</loc>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/journal_referee/rsc-advances/</loc>
+    <lastmod>2024-06-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/publication_types/journal-articles/</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/publications/</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/publications/perfluorooctanesulfonic-acid-and-perfluorooctanoic-acid-promote-migration-of-three-dimensional-colorectal-cancer-spheroids./</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/publication_types/</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/talks/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/tags/academic/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -38,47 +78,27 @@
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/hugo/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/project/pandas/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/project/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/project/pytorch/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/project/scikit/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/talks/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/wowchemy/</loc>
+    <loc>http://localhost:4321/talks/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/post/second-brain/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/post/data-visualization/</loc>
+    <loc>http://localhost:4321/talks/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/post/teach-courses/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/tags/hugo/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/experience/</loc>
+    <loc>http://localhost:4321/talks/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -86,35 +106,79 @@
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/javascript/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/teaching/js/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/teaching/python/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/tags/python/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/teaching/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/post/project-management/</loc>
+    <loc>http://localhost:4321/talks/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/publications/an-integrated-analysis-of-the-fecal-metabolome-and-metagenome-reveals-the-distinct-effects-of-differentially-charged-nanoplastics-on-the-gut-microbiota-associated-metabolites-in-mice./</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/gut-microbiome/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/metabolomics/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/nanoplastics/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/publications/urinary-paraben-concentrations-and-associations-with-the-periconceptional-urinary-metabolome-untargeted-and-targeted-metabolomics-analyses-of-participants-from-the-early-pregnancy-study/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/publications/discovery-of-decreased-ferroptosis-in-male-colorectal-cancer-patients-with-kras-mutations-/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/ferroptosis/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/sex-differences/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/publications/ferroptosis-in-colorectal-cancer-a-future-target/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/publications/targeting-ferroptosis-to-treat-colorectal-cancer/</loc>
+    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>http://localhost:4321/publications/bile-acid-distributions-sex-specifcity-and-prognosis-in-colorectal-cancer/</loc>
+    <lastmod>2022-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/publications/asparagine-colorectal-cancer-and-the-role-of-sex-genes-microbes-and-diet-a-narrative-review/</loc>
+    <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/publications/tidymass-an-object-oriented-reproducible-analysis-framework-for-lcms-data/</loc>
+    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/publications/asparagine-metabolism-in-tumors-is-linked-to-poor-survival-in-females-with-colorectal-cancer-a-cohort-study/</loc>
+    <lastmod>2022-02-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/publications/kynurenic-acid-may-underlie-sex-specific-immune-responses-to-covid-19/</loc>
+    <lastmod>2021-07-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/publications/a-new-concept-based-on-ensemble-strategy-and-derivative-for-the-quantitative-analysis-of-infrared-data/</loc>
+    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/talks/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -130,44 +194,48 @@
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/publications/high-level-fusion-coupled-with-mahalanobis-distance-weighted-mdw-method-for-multivariate-calibration/</loc>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication_types/article/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/publications/a-new-strategy-of-applying-modeling-indicator-determined-method-to-high-level-fusion-for-quantitative-analysis/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/large-language-models/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/publications/a-modification-of-the-bootstrapping-soft-shrinkage-approach-for-spectral-variable-selection-in-the-issue-of-over-fitting-model-accuracy-and-variable-selection-credibility/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/publications/an-ensemble-variable-selection-method-for-vibrational-spectroscopic-data-analysis/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/publications/towards-improvement-in-prediction-of-iodine-value-in-edible-oil-system-based-on-chemometric-analysis-of-portable-vibrational-spectroscopic-data/</loc>
+    <lastmod>2018-10-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/publications/quantitative-determination-of-additive-chlorantraniliprole-in-abamectin-preparation-investigation-of-bootstrapping-soft-shrinkage-approach-by-mid-infrared-spectroscopy/</loc>
+    <lastmod>2018-02-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication_types/article-journal/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/publications/a-novel-algorithm-for-spectral-interval-combination-optimization/</loc>
+    <lastmod>2016-12-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/source-themes/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/publications/determination-of-active-ingredients-in-matrine-aqueous-solutions-by-mid-infrared-spectroscopy-and-competitive-adaptive-reweighted-sampling/</loc>
+    <lastmod>2015-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/tags/mid-infrared/</loc>
+    <lastmod>2015-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/publication_types/paper-conference/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/publications/characterization-of-a-pesticide-formulation-by-medium-wave-near-infrared-spectroscopy-with-uninformative-variable-elimination-and-successive-projections-algorithm/</loc>
+    <lastmod>2014-08-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/publications/a-new-spectral-variable-selection-pattern-using-competitive-adaptive-reweighted-sampling-combined-with-successive-projections-algorithm/</loc>
+    <lastmod>2014-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
