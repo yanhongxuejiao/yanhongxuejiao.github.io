@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Original Research | Hong YAN</title>
+    <title>📰 Original Research | Hong YAN</title>
     <link>http://localhost:4321/publications/</link>
       <atom:link href="http://localhost:4321/publications/index.xml" rel="self" type="application/rss+xml" />
-    <description>Original Research</description>
+    <description>📰 Original Research</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
-      <title>Original Research</title>
+      <url>http://localhost:4321/media/logo_hu1d83199708a50fd4c53e13eca8c00a26_25788_300x300_fit_lanczos_3.png</url>
+      <title>📰 Original Research</title>
       <link>http://localhost:4321/publications/</link>
     </image>
     
