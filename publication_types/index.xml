@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Hong YAN</title>
-    <link>http://localhost:4321/publication_types/</link>
-      <atom:link href="http://localhost:4321/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:6045/publication_types/</link>
+      <atom:link href="http://localhost:6045/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/logo_hu1d83199708a50fd4c53e13eca8c00a26_25788_300x300_fit_lanczos_3.png</url>
+      <url>http://localhost:6045/media/logo_hu1d83199708a50fd4c53e13eca8c00a26_25788_300x300_fit_lanczos_3.png</url>
       <title>Publication_types</title>
-      <link>http://localhost:4321/publication_types/</link>
+      <link>http://localhost:6045/publication_types/</link>
     </image>
     
   </channel>

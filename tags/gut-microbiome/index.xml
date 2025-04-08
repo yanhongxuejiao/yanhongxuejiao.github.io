@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gut Microbiome | Hong YAN</title>
-    <link>http://localhost:4321/tags/gut-microbiome/</link>
-      <atom:link href="http://localhost:4321/tags/gut-microbiome/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:6045/tags/gut-microbiome/</link>
+      <atom:link href="http://localhost:6045/tags/gut-microbiome/index.xml" rel="self" type="application/rss+xml" />
     <description>Gut Microbiome</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/logo_hu1d83199708a50fd4c53e13eca8c00a26_25788_300x300_fit_lanczos_3.png</url>
+      <url>http://localhost:6045/media/logo_hu1d83199708a50fd4c53e13eca8c00a26_25788_300x300_fit_lanczos_3.png</url>
       <title>Gut Microbiome</title>
-      <link>http://localhost:4321/tags/gut-microbiome/</link>
+      <link>http://localhost:6045/tags/gut-microbiome/</link>
     </image>
     
     <item>
       <title>An integrated analysis of the fecal metabolome and metagenome reveals the distinct effects of differentially charged nanoplastics on the gut microbiota-associated metabolites in mice</title>
-      <link>http://localhost:4321/publications/an-integrated-analysis-of-the-fecal-metabolome-and-metagenome-reveals-the-distinct-effects-of-differentially-charged-nanoplastics-on-the-gut-microbiota-associated-metabolites-in-mice./</link>
+      <link>http://localhost:6045/publications/an-integrated-analysis-of-the-fecal-metabolome-and-metagenome-reveals-the-distinct-effects-of-differentially-charged-nanoplastics-on-the-gut-microbiota-associated-metabolites-in-mice./</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publications/an-integrated-analysis-of-the-fecal-metabolome-and-metagenome-reveals-the-distinct-effects-of-differentially-charged-nanoplastics-on-the-gut-microbiota-associated-metabolites-in-mice./</guid>
+      <guid>http://localhost:6045/publications/an-integrated-analysis-of-the-fecal-metabolome-and-metagenome-reveals-the-distinct-effects-of-differentially-charged-nanoplastics-on-the-gut-microbiota-associated-metabolites-in-mice./</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Whether nanoplastics with differential charges cause intestinal impairment via distinct mechanisms remains unclear. We investigated the relationship between fecal metabolites and the gut microbiome, and potential biomarkers thereof, in mice following exposure to differentially charged polystyrene nanoplastics (PS-NPs). Metagenomic analysis revealed that exposure to differentially charged PS-NPs resulted in alterations in the abundances of Bilophila_wadsworthia, Helicobacter apodemus, and Helicobacter typhlonius. A total of 237 fecal metabolites were significantly altered in mice that exhibited intestinal impairment, and these included 10 gut microbiota-related fecal metabolites that accurately discriminated impaired intestinal samples from the control. Additionally, the specific gut microbiome-related fecal metabolite-based model approach for the prediction of intestinal impairment in mice had an area under the curve (AUC) of 1.0 in the PS (without charge) group, an AUC of 0.94 in the PS-NH2 (positive charge) group, and an AUC of 0.86 in the PS-COOH (negative charge) group. Thus, the model showed promising evaluable accuracy for the prediction of intestinal impairment induced by nanoplastics in a charge-specific manner. Our study demonstrates that the fecal metabolome of mice with intestinal impairment following exposure to differentially charged nanoplastics is associated with changes in the gut microbiome. The identified biomarkers have potential application for the detection of intestinal impairment after exposure to negative, positive, or noncharged nanomaterials.&lt;/p&gt;
 &lt;h2 id=&#34;publication&#34;&gt;Publication&lt;/h2&gt;
