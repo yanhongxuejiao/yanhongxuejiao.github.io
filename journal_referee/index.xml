@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Journal_referees | Hong YAN</title>
-    <link>http://localhost:6045/journal_referee/</link>
-      <atom:link href="http://localhost:6045/journal_referee/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:3435/journal_referee/</link>
+      <atom:link href="http://localhost:3435/journal_referee/index.xml" rel="self" type="application/rss+xml" />
     <description>Journal_referees</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:6045/media/logo_hu1d83199708a50fd4c53e13eca8c00a26_25788_300x300_fit_lanczos_3.png</url>
+      <url>http://localhost:3435/media/logo_hu1d83199708a50fd4c53e13eca8c00a26_25788_300x300_fit_lanczos_3.png</url>
       <title>Journal_referees</title>
-      <link>http://localhost:6045/journal_referee/</link>
+      <link>http://localhost:3435/journal_referee/</link>
     </image>
     
     <item>
       <title>Bioinformatics</title>
-      <link>http://localhost:6045/journal_referee/bioinformatics/</link>
+      <link>http://localhost:3435/journal_referee/bioinformatics/</link>
       <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6045/journal_referee/bioinformatics/</guid>
+      <guid>http://localhost:3435/journal_referee/bioinformatics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cancer Research</title>
-      <link>http://localhost:6045/journal_referee/cancer-research/</link>
+      <link>http://localhost:3435/journal_referee/cancer-research/</link>
       <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6045/journal_referee/cancer-research/</guid>
+      <guid>http://localhost:3435/journal_referee/cancer-research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Communications Biology</title>
-      <link>http://localhost:6045/journal_referee/communications_biology/</link>
+      <link>http://localhost:3435/journal_referee/communications_biology/</link>
       <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6045/journal_referee/communications_biology/</guid>
+      <guid>http://localhost:3435/journal_referee/communications_biology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genomics, Proteomics &amp; Bioinformatics</title>
-      <link>http://localhost:6045/journal_referee/genomics_proteomics_bioinformatics/</link>
+      <link>http://localhost:3435/journal_referee/genomics_proteomics_bioinformatics/</link>
       <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6045/journal_referee/genomics_proteomics_bioinformatics/</guid>
+      <guid>http://localhost:3435/journal_referee/genomics_proteomics_bioinformatics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>International Journal of Medical Sciences</title>
-      <link>http://localhost:6045/journal_referee/international-journal-of-medical-sciences/</link>
+      <link>http://localhost:3435/journal_referee/international-journal-of-medical-sciences/</link>
       <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6045/journal_referee/international-journal-of-medical-sciences/</guid>
+      <guid>http://localhost:3435/journal_referee/international-journal-of-medical-sciences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nature Communications</title>
-      <link>http://localhost:6045/journal_referee/nature_communications/</link>
+      <link>http://localhost:3435/journal_referee/nature_communications/</link>
       <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6045/journal_referee/nature_communications/</guid>
+      <guid>http://localhost:3435/journal_referee/nature_communications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PLOS one</title>
-      <link>http://localhost:6045/journal_referee/plos-one/</link>
+      <link>http://localhost:3435/journal_referee/plos-one/</link>
       <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6045/journal_referee/plos-one/</guid>
+      <guid>http://localhost:3435/journal_referee/plos-one/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Redox Biology</title>
-      <link>http://localhost:6045/journal_referee/redox-biology/</link>
+      <link>http://localhost:3435/journal_referee/redox-biology/</link>
       <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6045/journal_referee/redox-biology/</guid>
+      <guid>http://localhost:3435/journal_referee/redox-biology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RSC advances</title>
-      <link>http://localhost:6045/journal_referee/rsc-advances/</link>
+      <link>http://localhost:3435/journal_referee/rsc-advances/</link>
       <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6045/journal_referee/rsc-advances/</guid>
+      <guid>http://localhost:3435/journal_referee/rsc-advances/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ferroptosis | Hong YAN</title>
-    <link>http://localhost:6045/tags/ferroptosis/</link>
-      <atom:link href="http://localhost:6045/tags/ferroptosis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:3435/tags/ferroptosis/</link>
+      <atom:link href="http://localhost:3435/tags/ferroptosis/index.xml" rel="self" type="application/rss+xml" />
     <description>Ferroptosis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:6045/media/logo_hu1d83199708a50fd4c53e13eca8c00a26_25788_300x300_fit_lanczos_3.png</url>
+      <url>http://localhost:3435/media/logo_hu1d83199708a50fd4c53e13eca8c00a26_25788_300x300_fit_lanczos_3.png</url>
       <title>Ferroptosis</title>
-      <link>http://localhost:6045/tags/ferroptosis/</link>
+      <link>http://localhost:3435/tags/ferroptosis/</link>
     </image>
     
     <item>
       <title>Discovery of decreased ferroptosis in male colorectal cancer patients with KRAS mutations</title>
-      <link>http://localhost:6045/publications/discovery-of-decreased-ferroptosis-in-male-colorectal-cancer-patients-with-kras-mutations-/</link>
+      <link>http://localhost:3435/publications/discovery-of-decreased-ferroptosis-in-male-colorectal-cancer-patients-with-kras-mutations-/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6045/publications/discovery-of-decreased-ferroptosis-in-male-colorectal-cancer-patients-with-kras-mutations-/</guid>
+      <guid>http://localhost:3435/publications/discovery-of-decreased-ferroptosis-in-male-colorectal-cancer-patients-with-kras-mutations-/</guid>
       <description>&lt;h2 id=&#34;abtract&#34;&gt;Abtract&lt;/h2&gt;
 &lt;p&gt;Aberrant tumor metabolism is a hallmark of cancer in which metabolic rewiring can support tumor growth under nutrient deficient conditions. KRAS mutations occur in 35–45% of all colorectal cancer (CRC) cases and are difficult to treat. The relationship between mutant KRAS and aberrant metabolism in CRCs has not been fully explored and could be a target for intervention. We previously acquired non-targeted metabolomics data from 161 tumor tissues and 39 normal colon tissues from stage I-III chemotherapy naïve CRC patients. In this study, we revealed that only in male patients, tumors with KRAS mutations had several altered pathways that suppress ferroptosis, including glutathione biosynthesis, transsulfuration activity, and methionine metabolism. To validate this phenotype, MC38 CRC cells (KRAS&lt;sup&gt;G13R&lt;/sup&gt;) were treated with a ferroptosis inducer; RAS-selected lethal (RSL3). RSL3 altered metabolic pathways in the opposite direction to that seen in KRAS mutant tumors from male patients confirming a suppressed ferroptosis metabolic phenotype in these patients. We further validated gene expression data from an additional CRC patient cohort (Gene Expression Omnibus (GEO)), and similarly observed differences in ferroptosis-related genes by sex and KRAS status. Further examination of the relationship between these genes and overall survival (OS) in the GEO cohort showed that KRAS mutant tumors are associated with poorer 5-year OS compared to KRAS wild type tumors, and only in male patients. Additionally, high compared to low expression of GPX4, FTH1, FTL, which suppress ferroptosis, were associated with poorer 5-year OS only in KRAS mutant tumors from male CRC patients. Additionally, low compared to high expression of ACSL4 was associated with poorer OS for this group. Our results show that KRAS mutant tumors from male CRC patients have suppressed ferroptosis, and gene expression changes that suppress ferroptosis associate with adverse outcomes for these patients, revealing a novel potential avenue for therapeutic approaches.&lt;/p&gt;
 &lt;h2 id=&#34;publication&#34;&gt;Publication&lt;/h2&gt;
